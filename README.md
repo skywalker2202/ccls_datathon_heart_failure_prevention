@@ -114,7 +114,7 @@ PDF Upload → RAG Extraction → Risk Calculation → Agent Selection → Recom
 ## 👥 Team
 
 **Developed by:**
-- **Suchanda Bhattacharyya**
+- **Suchandra Bhattacharyya**
 - **Marie Mehlfeldt** 
 - **Angelina Jordine** 
 
