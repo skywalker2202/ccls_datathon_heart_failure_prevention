@@ -289,9 +289,9 @@ def run (patient_category, patient_abnormalities, high_alert):
             consultation_results = handle_midlevel_risk_patient_complete(heart_prevention_agent_mid, patient_abnormalities)
             return consultation_results
         elif patient_category == "high":
-            SENDER_EMAIL = "angelinajordine@gmail.com"
-            SENDER_PASSWORD = "ytsu rlgi xjma osqr"
-            RECEIVER_EMAIL = "bhattacharyya.s2202@gmail.com"
+            SENDER_EMAIL = "xxx.com" #add sender email
+            SENDER_PASSWORD = "ytsu rlgi xjma osqr" #generate password
+            RECEIVER_EMAIL = "yyy.com"  #add receiver email
 
 
             print("Processing HIGH-RISK patient...")
