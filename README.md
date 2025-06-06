@@ -2,7 +2,7 @@
 
 [![Winner](https://img.shields.io/badge/s://img.g.OpenAI](https://img.shields..microsoft.com/en-us/products Winning Submission at CCLS Datathon 2025 (Aachen, organized by HDS-LEE)**
 
-An intelligent healthcare tool that extracts data from doctor's notes, calculates Framingham Heart Failure Risk Scores, and provides personalized preventative care recommendations through a multi-agent AI system[1][2][3].
+An intelligent healthcare tool that extracts data from doctor's notes, calculates Framingham Heart Failure Risk Scores, and provides personalized preventative care recommendations through a multi-agent AI system
 
 ## ✨ Features
 
@@ -146,6 +146,3 @@ The Framingham Heart Failure Risk Score implementation follows established clini
 
 *This project demonstrates the potential of AI-powered healthcare tools to improve preventative care and patient outcomes through intelligent risk assessment and personalized recommendations.*
 
-[1] programming.medical_applications
-[2] programming.patient_education
-[3] programming.agent_selection
